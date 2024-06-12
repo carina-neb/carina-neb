@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carina-neb
 - 👀 I’m interested in everything,specialy thigs about the space 
 - 🌱 I’m currently learning about systems and how to programete them 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she
 - ⚡ Fun fact: i don´t know
 
 <!---
